@@ -5,15 +5,23 @@ Welcome. I study how things work: systems, people, ideas and what they reveal wh
 The Small Enjoyments of My Life:
 
 📚 Books
+
 😂 Memes
+
 💭 Pursuing Obsessions 
+
 🪶 Defying Gravity
+
 ❤️ Concerning My Loved Ones
 
 Current Obsessions:
 
 🔐 Cybersecurity — Trying hard to be cool.
+
 🧠 Building a Home Lab — Satisfying my desire to buy things.
+
 📖 Reading Kokoro — A reminder that understanding others often starts with realizing how little we understand ourselves.
+
 🍛 Eating Biryani — Satisfying the desires of my stomach.
+
 🫀 Being Human — In Beta.
