@@ -12,7 +12,7 @@ Welcome. I study how things work: systems, people, ideas and what they reveal wh
 
 **Current Obsessions:**
 
-- 🔐 Cybersecurity — To impress ladies and by ladies, I mean the honeypots that don't call back.
+- 🔐 Cybersecurity — To impress the ladies and by ladies, I mean the honeypots that don't call back.
 - 🧠 Building a Home Lab — Satisfying my desire to buy things. 
 - 📖 Reading Kokoro — A reminder that understanding others often starts with realizing how little we understand ourselves.
 - 🍛 Eating Biryani — Satisfying my desire of a full stomach.
