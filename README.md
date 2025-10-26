@@ -1,16 +1,19 @@
-## Hi there 👋
+# Th3Sp00kyM8
 
-<!--
-**Th3Sp00kyM8/Th3Sp00kyM8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome. I study how things work: systems, people, ideas and what they reveal when tested. Most of what’s here is exploration and experimentation. I build to understand, document to remember, and share because it keeps me honest about what I actually know.
 
-Here are some ideas to get you started:
+The Small Enjoyments of My Life:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Books
+😂 Memes
+💭 Pursuing Obsessions 
+🪶 Defying Gravity
+❤️ Concerning My Loved Ones
+
+Current Obsessions:
+
+🔐 Cybersecurity — Trying hard to be cool.
+🧠 Building a Home Lab — Satisfying my desire to buy things.
+📖 Reading Kokoro — A reminder that understanding others often starts with realizing how little we understand ourselves.
+🍛 Eating Biryani — Satisfying the desires of my stomach.
+🫀 Being Human — In Beta.
