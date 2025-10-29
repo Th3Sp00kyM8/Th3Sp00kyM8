@@ -2,7 +2,7 @@
 
 Welcome. I study how things work: systems, people, ideas and what they reveal when tested. Most of what’s here is exploration and experimentation. I build to understand, document to remember, and share because it keeps me honest about what I actually know.
 
-**The Small Parts of Life That I Enjoy:**
+**The Small Things That I Enjoy:**
 
 - 📚 Books
 - 😂 Memes
