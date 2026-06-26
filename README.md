@@ -5,9 +5,7 @@ Welcome. I study how things work: systems, people, ideas and what they reveal wh
 **The Small Things That I Enjoy:**
 
 - 📚 Books
-- 😂 Memes
 - 💭 Pursuing Obsessions 
-- 🪶 Defying Gravity
 - ❤️ Concerning My Loved Ones
 
 **Current Obsessions:**
